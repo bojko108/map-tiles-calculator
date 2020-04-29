@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/map_tiles_calculator" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
